@@ -20,7 +20,7 @@ Desarrollador web junior con conocimientos en el desarrollo tanto del front end 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,express,astro,nextjs,prisma,git,css,github,html,js,mongodb,mysql,nodejs,postman,redux,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,express,astro,nextjs,nestjs,prisma,git,css,github,html,js,mongodb,mysql,nodejs,postman,redux,vscode&perline=8" />
   </a>
 </p>
 
