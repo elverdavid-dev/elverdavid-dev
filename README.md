@@ -7,7 +7,7 @@
 <br>
 
 <p>
-Desarrollador web junior con conocimientos en el desarrollo tanto del front end como del back end. Siempre en busca de aprender nuevas tecnologías y técnicas para mejorar mi trabajo.
+Soy desarrollador web con experiencia en tecnologías como React, Next.js, Tailwind CSS y Node.js, Mi enfoque se centra en crear soluciones web innovadoras y atractivas. 
 </p>
 
 <br><br>
