@@ -7,7 +7,7 @@
 <br>
 
 <p>
-Soy desarrollador web con experiencia en tecnologías como React, Next.js, Tailwind CSS y Node.js, Mi enfoque se centra en crear soluciones web innovadoras y atractivas. 
+👨‍💻 Con más de un año de experiencia en desarrollo web full stack, me apasiona la creación de soluciones digitales innovadoras y visualmente atractivas. Domino tecnologías como TypeScript, Next.js, Tailwind CSS y Node.js, centrándome en proporcionar una excelente experiencia de usuario a través de interfaces intuitivas y funcionales. ¡Vamos a construir algo increíble juntos! ✨🚀
 </p>
 
 <br><br>
