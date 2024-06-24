@@ -36,9 +36,9 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/ElverDavid07">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElverDavid07&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElverDavid07&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<a href="https://github.com/elverdavid-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elverdavid-dev&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elverdavid-dev&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </a>
 </p>
 
