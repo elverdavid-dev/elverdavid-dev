@@ -50,6 +50,6 @@
   </picture>
 </a>
 
-<br/>
+</br>
 
 More about me in my <a href="https://www.elvportafolio.website/">web portfolio</a>
