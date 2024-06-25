@@ -1,53 +1,55 @@
-<h1 align="center"><b>Hola soy <a href="https://www.elvportafolio.website">Elver David Peñate</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi👋, I`m Elver David
+## Web Developer 🚀
 
-<br>
+<!-- Section Badges -->
+<div style="display:flex; gap:0px 5px;">
+<a href="https://www.linkedin.com/in/elverdavid-dev/">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-<br>
+<a href="https://github.com/elverdavid-dev">
+    <img src="https://img.shields.io/github/followers/elverdavid-dev?label=Follow&style=social" alt="Github">
+</a>
 
-<p>
-👨‍💻 Con más de un año de experiencia en desarrollo web full stack, me apasiona la creación de soluciones digitales innovadoras y visualmente atractivas. Domino tecnologías como TypeScript, Next.js, Tailwind CSS y Node.js, centrándome en proporcionar una excelente experiencia de usuario a través de interfaces intuitivas y funcionales. ¡Vamos a construir algo increíble juntos! ✨🚀
-</p>
 
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://komarev.com/ghpvc/?username=elverdavid-dev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="elverdavid-dev" /> 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Conocimientos y habilidades</b>
+</div>
 
-<br>
+- 👨‍💻 +2 years experience in personal projects
 
-<p align="center">
+- 🛠️ My main tools are TypeScript, React and Node.js.
+
+- 🌱 Passionate about exploring new technologies and development methodologies.
+
+- 🤝 Open to new opportunities and collaborations. Let's talk!
+
+<!-- Section lenguages and tools -->
+
+<h2 style="display:flex; gap:0px 4px;">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
+</h2>
+<p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,express,astro,nextjs,nestjs,prisma,git,css,github,html,js,mongodb,mysql,nodejs,postman,redux,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,astro,nestjs,html,css,js,mongodb,&perline=8" />
   </a>
 </p>
 
-<br>
-<br>
 
----
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Analiticas de Github</b>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/elverdavid-dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elverdavid-dev&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elverdavid-dev&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<h2 style="display:flex; gap:0px 2px;">
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
+</h2>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=91912264" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @elverdavid-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
-</p>
 
-<br>
-<br>
+<br/>
 
----
-
-<br>
-
-Mas sobre mi en mi portafolio web **[Click para ir a la pagina](https://www.elvportafolio.website)**
-<br>
+More about me in my <a href="https://www.elvportafolio.website/">web portfolio</a>
