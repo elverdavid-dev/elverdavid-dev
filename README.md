@@ -26,8 +26,8 @@
   </a>
 
 
-
-<h2 style="display:flex; gap:0px 2px;">
+<!-- Section gitHub Stats-->
+<h2>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
 </h2>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=91912264" target="_blank" style="display: block" align="center">
