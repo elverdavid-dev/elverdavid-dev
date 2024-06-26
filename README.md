@@ -2,22 +2,10 @@
 ## Web Developer 🚀
 
 <!-- Section Badges -->
-<div style="display:flex; gap:0px 5px;">
-<a href="https://www.linkedin.com/in/elverdavid-dev/">
-    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elverdavid-dev/)
+[![GitHub followers](https://img.shields.io/github/followers/elverdavid-dev?label=Follow&style=social)](https://github.com/elverdavid-dev)
+![Profile views](https://komarev.com/ghpvc/?username=elverdavid-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-
-<a href="https://github.com/elverdavid-dev">
-    <img src="https://img.shields.io/github/followers/elverdavid-dev?label=Follow&style=social" alt="Github">
-</a>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=elverdavid-dev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="elverdavid-dev" /> 
-
-</div>
 
 - 👨‍💻 +2 years experience in personal projects
 
