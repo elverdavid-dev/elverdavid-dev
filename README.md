@@ -9,6 +9,8 @@
 
 - 👨‍💻 +2 years experience in personal projects
 
+- 📂 Explore my projects at [www.elvportafolio.website](https://www.elvportafolio.website/)
+
 - 🛠️ My main tools are TypeScript, React and Node.js.
 
 - 🌱 Passionate about exploring new technologies and development methodologies.
@@ -36,5 +38,3 @@
     <img alt="Dashboard stats of @elverdavid-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=91912264&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-### 🌐 [Visit my Portfolio](https://www.elvportafolio.website/) 🚀🌟
